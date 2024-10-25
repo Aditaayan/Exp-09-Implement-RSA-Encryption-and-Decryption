@@ -138,7 +138,7 @@ int main() {
 ```
 ## Output:
 
-![image](https://github.com/user-attachments/assets/62aa6b27-f721-44a2-8272-dfe562d5c1f3)
+![Screenshot 2024-10-25 185503](https://github.com/user-attachments/assets/26929492-a9fb-4d5e-9fa8-b0e6bed8a894)
 
 
 ## Result:
