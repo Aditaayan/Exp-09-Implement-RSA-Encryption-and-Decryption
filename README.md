@@ -1,7 +1,11 @@
 # Exp-09-Implement-RSA-Encryption-and-Decryption
+
 ## AIM:
+
 To implement the RSA algorithm to securely encrypt and decrypt messages using public and private keys.
+
 ## ALGORITHM:
+
 ### Step 1: 
 Get two distinct prime numbers p and q from the user or predefine them. 
 ### Step 2: 
@@ -30,7 +34,7 @@ Print the encrypted message and the decrypted message.
 End the program.
 
 ## PROGRAM:
-```c
+```
 #include <stdio.h>
 #include <string.h>
 #include <math.h>
@@ -133,7 +137,8 @@ int main() {
 }
 ```
 ## Output:
-![image](https://github.com/user-attachments/assets/62e9f81c-8c7e-44c8-8fe8-deb054372880)
+
+![image](https://github.com/user-attachments/assets/a0ec5222-1f81-4768-99ad-cbc8e8dab26a)
 
 
 ## Result:
